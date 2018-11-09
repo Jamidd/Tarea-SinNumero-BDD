@@ -1,0 +1,1451 @@
+[	
+	{
+		"id": 0,
+		"apellido": "ABUSLEME",
+		"nombre": "RAFAEL ANTONIO",
+		"correo": "raabusleme@uc.cl",
+		"sexo": "M",
+		"edad": 20,
+		"clave": "gorrlr"
+	},
+	{
+		"id": 1,
+		"apellido": "AGUILLÓN",
+		"nombre": "JUAN JOSÉ ARTURO",
+		"correo": "jjaguillon@uc.cl",
+		"sexo": "M",
+		"edad": 19,
+		"clave": "uiigtk"
+	},
+	{
+		"id": 2,
+		"apellido": "ALLIENDE",
+		"nombre": "MARÍA JOSEFINA",
+		"correo": "moalliende@uc.cl",
+		"sexo": "F",
+		"edad": 18,
+		"clave": "yzjxst"
+	},
+	{
+		"id": 3,
+		"apellido": "ÁLVAREZ",
+		"nombre": "VALENTINA JAVIERA",
+		"correo": "vjalvarez@uc.cl",
+		"sexo": "F",
+		"edad": 23,
+		"clave": "btgofu"
+	},
+	{
+		"id": 4,
+		"apellido": "ÁLVAREZ",
+		"nombre": "TOMÁS",
+		"correo": "talvarez2@uc.cl",
+		"sexo": "M",
+		"edad": 10,
+		"clave": "vgpjwq"
+	},
+	{
+		"id": 5,
+		"apellido": "ALVAREZ",
+		"nombre": "AUGUSTO ALEJANDRO",
+		"correo": "aaalvarez@uc.cl",
+		"sexo": "M",
+		"edad": 14,
+		"clave": "wqofrq"
+	},
+	{
+		"id": 6,
+		"apellido": "ANDRADE",
+		"nombre": "KENZO",
+		"correo": "kandrade@uc.cl",
+		"sexo": "M",
+		"edad": 28,
+		"clave": "grkadq"
+	},
+	{
+		"id": 7,
+		"apellido": "APABLAZA",
+		"nombre": "FELIPE EDUARDO",
+		"correo": "feapablaza@uc.cl",
+		"sexo": "F",
+		"edad": 10,
+		"clave": "mituup"
+	},
+	{
+		"id": 8,
+		"apellido": "ARELLANO",
+		"nombre": "PAULA FABIOLA",
+		"correo": "pfarellano@uc.cl",
+		"sexo": "M",
+		"edad": 10,
+		"clave": "mtxuce"
+	},
+	{
+		"id": 9,
+		"apellido": "AVALOS",
+		"nombre": "ANDRES EMILIO",
+		"correo": "aeavalos@uc.cl",
+		"sexo": "M",
+		"edad": 15,
+		"clave": "weagwe"
+	},
+	{
+		"id": 10,
+		"apellido": "AYANCAN",
+		"nombre": "BENJAMIN EDUARDO",
+		"correo": "beayancan@uc.cl",
+		"sexo": "M",
+		"edad": 21,
+		"clave": "xohxmz"
+	},
+	{
+		"id": 11,
+		"apellido": "BAEZA",
+		"nombre": "IGNACIA",
+		"correo": "ibaeza1@uc.cl",
+		"sexo": "F",
+		"edad": 17,
+		"clave": "ilmidf"
+	},
+	{
+		"id": 12,
+		"apellido": "BALBONTÍN",
+		"nombre": "NICOLÁS FELIPE",
+		"correo": "nfbalbontin@uc.cl",
+		"sexo": "M",
+		"edad": 16,
+		"clave": "qyznaz"
+	},
+	{
+		"id": 13,
+		"apellido": "BAO",
+		"nombre": "JAVIERA BELÉN",
+		"correo": "jbbao@uc.cl",
+		"sexo": "F",
+		"edad": 20,
+		"clave": "eeudtc"
+	},
+	{
+		"id": 14,
+		"apellido": "BARRÍA",
+		"nombre": "FELIPE RAÚL",
+		"correo": "frbarria@uc.cl",
+		"sexo": "M",
+		"edad": 27,
+		"clave": "udyrrr"
+	},
+	{
+		"id": 15,
+		"apellido": "BARRIENTOS",
+		"nombre": "FELIPE ANTONIO",
+		"correo": "fnbarrientos@uc.cl",
+		"sexo": "M",
+		"edad": 21,
+		"clave": "gztosn"
+	},
+	{
+		"id": 16,
+		"apellido": "BENGOA",
+		"nombre": "JOSEFINA",
+		"correo": "jbengoa1@uc.cl",
+		"sexo": "F",
+		"edad": 18,
+		"clave": "coghtc"
+	},
+	{
+		"id": 17,
+		"apellido": "BERRÍOS",
+		"nombre": "CAMILO IGNACIO",
+		"correo": "ciberrios@uc.cl",
+		"sexo": "M",
+		"edad": 24,
+		"clave": "jlatsz"
+	},
+	{
+		"id": 18,
+		"apellido": "BERRIOS",
+		"nombre": "FELIPE ALBERTO",
+		"correo": "faberrios@uc.cl",
+		"sexo": "M",
+		"edad": 28,
+		"clave": "hkduja"
+	},
+	{
+		"id": 19,
+		"apellido": "BUGMANN",
+		"nombre": "JOAQUÍN ALBERTO",
+		"correo": "jabugmann@uc.cl",
+		"sexo": "M",
+		"edad": 22,
+		"clave": "gllyvz"
+	},
+	{
+		"id": 20,
+		"apellido": "BUSCH",
+		"nombre": "ALBERTO TOMÁS",
+		"correo": "atbusch@uc.cl",
+		"sexo": "M",
+		"edad": 21,
+		"clave": "cpiaxs"
+	},
+	{
+		"id": 21,
+		"apellido": "CAMPENY",
+		"nombre": "AGUSTÍN RICARDO",
+		"correo": "arcampeny@uc.cl",
+		"sexo": "M",
+		"edad": 12,
+		"clave": "gcorgq"
+	},
+	{
+		"id": 22,
+		"apellido": "CAROCA",
+		"nombre": "DIEGO ANTONIO",
+		"correo": "dncaroca@uc.cl",
+		"sexo": "M",
+		"edad": 20,
+		"clave": "ajasxl"
+	},
+	{
+		"id": 23,
+		"apellido": "CARRASCO",
+		"nombre": "DANIEL ROBERTO",
+		"correo": "drcarrasco@uc.cl",
+		"sexo": "M",
+		"edad": 19,
+		"clave": "piydcg"
+	},
+	{
+		"id": 24,
+		"apellido": "CARREÑO",
+		"nombre": "SEBASTIÁN IGNACIO",
+		"correo": "sgcarreno@uc.cl",
+		"sexo": "M",
+		"edad": 10,
+		"clave": "uuhyrz"
+	},
+	{
+		"id": 25,
+		"apellido": "CHÁVEZ",
+		"nombre": "CAMILA SOFÍA",
+		"correo": "cschavez@uc.cl",
+		"sexo": "F",
+		"edad": 10,
+		"clave": "mbxqef"
+	},
+	{
+		"id": 26,
+		"apellido": "CHRISTENSEN",
+		"nombre": "ANTONIA",
+		"correo": "achristensen1@uc.cl",
+		"sexo": "F",
+		"edad": 17,
+		"clave": "xwainh"
+	},
+	{
+		"id": 27,
+		"apellido": "COBO",
+		"nombre": "ANTONIA SOFIA",
+		"correo": "ascobo@uc.cl",
+		"sexo": "F",
+		"edad": 20,
+		"clave": "ptjmby"
+	},
+	{
+		"id": 28,
+		"apellido": "CONCHA",
+		"nombre": "DANIELA ALEJANDRA",
+		"correo": "daconcha@uc.cl",
+		"sexo": "F",
+		"edad": 27,
+		"clave": "utvsar"
+	},
+	{
+		"id": 29,
+		"apellido": "CONTRERAS",
+		"nombre": "IGNACIO",
+		"correo": "icontreras1@uc.cl",
+		"sexo": "M",
+		"edad": 27,
+		"clave": "glttfo"
+	},
+	{
+		"id": 30,
+		"apellido": "CUCUMIDES",
+		"nombre": "TAMARA ALEXANDRA",
+		"correo": "tacucumides@uc.cl",
+		"sexo": "F",
+		"edad": 19,
+		"clave": "dmxsoy"
+	},
+	{
+		"id": 31,
+		"apellido": "DARRITCHON",
+		"nombre": "DANIEL EDUARDO",
+		"correo": "dedarritchon@uc.cl",
+		"sexo": "M",
+		"edad": 19,
+		"clave": "cdkzyl"
+	},
+	{
+		"id": 32,
+		"apellido": "DE DIEGO"
+		"nombre": "FERNANDO ANTONIO",
+		"correo": "fadediego@uc.cl",
+		"sexo": "M",
+		"edad": 27,
+		"clave": "uttrtj"
+	},
+	{
+		"id": 33,
+		"apellido": "DEL" 
+		"nombre": "REAL,BENJAMÍN IGNACIO",
+		"correo": "bidelreal@uc.cl",
+		"sexo": "M",
+		"edad": 24,
+		"clave": "wcxupx"
+	},
+	{
+		"id": 34,
+		"apellido": "DELGADO",
+		"nombre": "FERNANDA",
+		"correo": "fdelgado@uc.cl",
+		"sexo": "F",
+		"edad": 26,
+		"clave": "aggjzb"
+	},
+	{
+		"id": 35,
+		"apellido": "DOMB",
+		"nombre": "BENJAMIN IGAL",
+		"correo": "bidomb@uc.cl",
+		"sexo": "M",
+		"edad": 20,
+		"clave": "pkjvjf"
+	},
+	{
+		"id": 36,
+		"apellido": "DURAN",
+		"nombre": "FERNANDA ROCIO",
+		"correo": "frduran@uc.cl",
+		"sexo": "F",
+		"edad": 25,
+		"clave": "nxcsfn"
+	},
+	{
+		"id": 37,
+		"apellido": "ECHEVERRÍA",
+		"nombre": "DIEGO HERNÁN",
+		"correo": "dhecheverria@uc.cl",
+		"sexo": "M",
+		"edad": 22,
+		"clave": "uozlnt"
+	},
+	{
+		"id": 38,
+		"apellido": "EICHHOLZ",
+		"nombre": "JOAQUIN",
+		"correo": "jeichholz3@uc.cl",
+		"sexo": "M",
+		"edad": 18,
+		"clave": "jabfqm"
+	},
+	{
+		"id": 39,
+		"apellido": "ESCUDERO",
+		"nombre": "MARCELO IGNACIO",
+		"correo": "miescudero@uc.cl",
+		"sexo": "M",
+		"edad": 29,
+		"clave": "umthdy"
+	},
+	{
+		"id": 40,
+		"apellido": "ESPINOZA",
+		"nombre": "BARBARA MARIANA",
+		"correo": "bmespinoza@uc.cl",
+		"sexo": "F",
+		"edad": 11,
+		"clave": "dlgpai"
+	},
+	{
+		"id": 41,
+		"apellido": "EVERKE",
+		"nombre": "SARAH VIRGINIA",
+		"correo": "sveverke@uc.cl",
+		"sexo": "F",
+		"edad": 28,
+		"clave": "rpkycu"
+	},
+	{
+		"id": 42,
+		"apellido": "EYZAGUIRRE",
+		"nombre": "RAIMUNDO",
+		"correo": "reyzaguirre1@uc.cl",
+		"sexo": "M",
+		"edad": 23,
+		"clave": "mrpoam"
+	},
+	{
+		"id": 43,
+		"apellido": "FIELDHOUSE",
+		"nombre": "IAN",
+		"correo": "ifieldhouse@uc.cl",
+		"sexo": "M",
+		"edad": 10,
+		"clave": "hazlf
+	},o"
+	{
+		"id": 44,
+		"apellido": "FREY",
+		"nombre": "MAXIMILIANO BENJAMÍN",
+		"correo": "mbfrey@uc.cl",
+		"sexo": "M",
+		"edad": 14,
+		"clave": "lexbuv"
+	},
+	{
+		"id": 45,
+		"apellido": "FUENTES",
+		"nombre": "BENJAMIN IGNACIO",
+		"correo": "bgfuentes@uc.cl",
+		"sexo": "M",
+		"edad": 21,
+		"clave": "xjrmdi"
+	},
+	{
+		"id": 46,
+		"apellido": "GABLER",
+		"nombre": "MATÍAS ANDRÉS",
+		"correo": "mngabler@uc.cl",
+		"sexo": "M",
+		"edad": 28,
+		"clave": "xzaaxj"
+	},
+	{
+		"id": 47,
+		"apellido": "GAÍNZA",
+		"nombre": "CONSTANZA MIKELA",
+		"correo": "cmgainza@uc.cl",
+		"sexo": "F",
+		"edad": 29,
+		"clave": "vonged"
+	},
+	{
+		"id": 48,
+		"apellido": "GARRIDO",
+		"nombre": "NICOLÁS JORGE",
+		"correo": "njgarrido@uc.cl",
+		"sexo": "M",
+		"edad": 15,
+		"clave": "zjoqby"
+	},
+	{
+		"id": 49,
+		"apellido": "GRAMSCH",
+		"nombre": "LUCAS ESTEBAN",
+		"correo": "legramsch@uc.cl",
+		"sexo": "M",
+		"edad": 11,
+		"clave": "xzpuhy"
+	},
+	{
+		"id": 50,
+		"apellido": "HAEUSSLER",
+		"nombre": "PABLO ANDRÉS",
+		"correo": "pahaeussler@uc.cl",
+		"sexo": "M",
+		"edad": 11,
+		"clave": "uzesac"
+	},
+	{
+		"id": 51,
+		"apellido": "HANUCH",
+		"nombre": "RODRIGO IGNACIO",
+		"correo": "rihanuch@uc.cl",
+		"sexo": "M",
+		"edad": 17,
+		"clave": "ckdhpt"
+	},
+	{
+		"id": 52,
+		"apellido": "HARCHA",
+		"nombre": "JORGE ESTEBAN",
+		"correo": "jeharcha@uc.cl",
+		"sexo": "M",
+		"edad": 17,
+		"clave": "gectpz"
+	},
+	{
+		"id": 53,
+		"apellido": "HERRERA",
+		"nombre": "CATALINA FRANCISCA DEL CA",
+		"correo": "cfherrera@uc.cl",
+		"sexo": "F",
+		"edad": 23,
+		"clave": "vxrttt"
+	},
+	{
+		"id": 54,
+		"apellido": "HERREROS",
+		"nombre": "CRISTOBAL EDUARDO",
+		"correo": "ceherreros@uc.cl",
+		"sexo": "M",
+		"edad": 19,
+		"clave": "debzqy"
+	},
+	{
+		"id": 55,
+		"apellido": "ILABACA",
+		"nombre": "CRISTOBAL",
+		"correo": "cilabaca1@uc.cl",
+		"sexo": "M",
+		"edad": 20,
+		"clave": "magpwj"
+	},
+	{
+		"id": 56,
+		"apellido": "INOSTROZA",
+		"nombre": "JAVIERA MONSERRAT",
+		"correo": "jminostroza@uc.cl",
+		"sexo": "F",
+		"edad": 25,
+		"clave": "iuovpt"
+	},
+	{
+		"id": 57,
+		"apellido": "IRARRAZAVAL",
+		"nombre": "ALFONSO JUAN DE DIOS",
+		"correo": "auirarrazaval@uc.cl",
+		"sexo": "M",
+		"edad": 26,
+		"clave": "ccwcjv"
+	},
+	{
+		"id": 58,
+		"apellido": "JIMÉNEZ",
+		"nombre": "FELIPE CARLOS",
+		"correo": "fcjimenez@uc.cl",
+		"sexo": "M",
+		"edad": 12,
+		"clave": "dxpcjs"
+	},
+	{
+		"id": 59,
+		"apellido": "JOUBLAN",
+		"nombre": "JEAN PAUL ANDRE",
+		"correo": "jpjoublan@uc.cl",
+		"sexo": "M",
+		"edad": 23,
+		"clave": "easydn"
+	},
+	{
+		"id": 60,
+		"apellido": "JUAREZ",
+		"nombre": "VICENTE IGNACIO",
+		"correo": "vijuarez@uc.cl",
+		"sexo": "M",
+		"edad": 22,
+		"clave": "trbmbf"
+	},
+	{
+		"id": 61,
+		"apellido": "KINAST",
+		"nombre": "SANTIAGO JOSE",
+		"correo": "sjkinast@uc.cl",
+		"sexo": "M",
+		"edad": 10,
+		"clave": "ogeprw"
+	},
+	{
+		"id": 62,
+		"apellido": "KREBS",
+		"nombre": "AGUSTIN",
+		"correo": "akrebs2@uc.cl",
+		"sexo": "M",
+		"edad": 24,
+		"clave": "hohrmr"
+	},
+	{
+		"id": 63,
+		"apellido": "LEPE",
+		"nombre": "CARLA DANIELA",
+		"correo": "cdlepe@uc.cl",
+		"sexo": "F",
+		"edad": 20,
+		"clave": "bsexle"
+	},
+	{
+		"id": 64,
+		"apellido": "LIRA",
+		"nombre": "MARTÍN IGNACIO",
+		"correo": "mglira@uc.cl",
+		"sexo": "M",
+		"edad": 12,
+		"clave": "yplvzj"
+	},
+	{
+		"id": 65,
+		"apellido": "LIRA",
+		"nombre": "VICENTE JOSE",
+		"correo": "vjlira@uc.cl",
+		"sexo": "M",
+		"edad": 10,
+		"clave": "hypezd"
+	},
+	{
+		"id": 66,
+		"apellido": "LOYOLA",
+		"nombre": "LUIS ALBERTO",
+		"correo": "llloyola@uc.cl",
+		"sexo": "M",
+		"edad": 20,
+		"clave": "ifwmay"
+	},
+	{
+		"id": 67,
+		"apellido": "MARAMBIO",
+		"nombre": "VÍCTOR ARIEL",
+		"correo": "vamarambio@uc.cl",
+		"sexo": "M",
+		"edad": 28,
+		"clave": "jvmguy"
+	},
+	{
+		"id": 68,
+		"apellido": "MARDONES",
+		"nombre": "MAXIMILIANO ANDRES",
+		"correo": "mnmardones@uc.cl",
+		"sexo": "M",
+		"edad": 13,
+		"clave": "rxdvaq"
+	},
+	{
+		"id": 69,
+		"apellido": "MARTÍNEZ",
+		"nombre": "BENJAMÍN IGNACIO",
+		"correo": "bimartinez@uc.cl",
+		"sexo": "M",
+		"edad": 13,
+		"clave": "sazhdz"
+	},
+	{
+		"id": 70,
+		"apellido": "MARTÍNEZ",
+		"nombre": "JUAN JOSÉ",
+		"correo": "jjmartinez1@uc.cl",
+		"sexo": "M",
+		"edad": 24,
+		"clave": "poqxwn"
+	},
+	{
+		"id": 71,
+		"apellido": "MARTINEZ",
+		"nombre": "RAIMUNDO",
+		"correo": "rmartinez7@uc.cl",
+		"sexo": "M",
+		"edad": 19,
+		"clave": "kracol"
+	},
+	{
+		"id": 72,
+		"apellido": "MEDINA",
+		"nombre": "WILLIAMS ALEJANDRO",
+		"correo": "wamedina@uc.cl",
+		"sexo": "M",
+		"edad": 18,
+		"clave": "tqdtdt"
+	},
+	{
+		"id": 73,
+		"apellido": "MELÍN",
+		"nombre": "VICENTE TOMÁS",
+		"correo": "vtmelin@uc.cl",
+		"sexo": "M",
+		"edad": 10,
+		"clave": "cdwlvk"
+	},
+	{
+		"id": 74,
+		"apellido": "MESTRE",
+		"nombre": "ESTEBAN",
+		"correo": "emestre@uc.cl",
+		"sexo": "M",
+		"edad": 12,
+		"clave": "yhvuwy"
+	},
+	{
+		"id": 75,
+		"apellido": "MIDDLETON",
+		"nombre": "JAIME ANDRES",
+		"correo": "jamiddleton@uc.cl",
+		"sexo": "M",
+		"edad": 16,
+		"clave": "fnoghu"
+	},
+	{
+		"id": 76,
+		"apellido": "MINGO",
+		"nombre": "MATÍAS ANDRÉS",
+		"correo": "mamingo@uc.cl",
+		"sexo": "M",
+		"edad": 13,
+		"clave": "nkntrl"
+	},
+	{
+		"id": 77,
+		"apellido": "MOLINA",
+		"nombre": "DIEGO",
+		"correo": "dmolina2@uc.cl",
+		"sexo": "M",
+		"edad": 15,
+		"clave": "yfkexw"
+	},
+	{
+		"id": 78,
+		"apellido": "MOLINA",
+		"nombre": "JEREMÍAS ANDRÉS",
+		"correo": "jamolina3@uc.cl",
+		"sexo": "M",
+		"edad": 18,
+		"clave": "vreyfh"
+	},
+	{
+		"id": 79,
+		"apellido": "MORAGA",
+		"nombre": "JUAN PABLO",
+		"correo": "jomoraga@uc.cl",
+		"sexo": "M",
+		"edad": 18,
+		"clave": "biskjd"
+	},
+	{
+		"id": 80,
+		"apellido": "MUSSUTO",
+		"nombre": "VITO ARCANGELO",
+		"correo": "vamussuto@uc.cl",
+		"sexo": "M",
+		"edad": 21,
+		"clave": "lktsjw"
+	},
+	{
+		"id": 81,
+		"apellido": "NESTLER",
+		"nombre": "JUAN JOSÉ",
+		"correo": "jjnestler@uc.cl",
+		"sexo": "M",
+		"edad": 25,
+		"clave": "ryvwnw"
+	},
+	{
+		"id": 82,
+		"apellido": "OLEA",
+		"nombre": "PABLO IGNACIO",
+		"correo": "pgolea@uc.cl",
+		"sexo": "M",
+		"edad": 19,
+		"clave": "srczoe"
+	},
+	{
+		"id": 83,
+		"apellido": "OLIDEN",
+		"nombre": "NORMAN ANDRES",
+		"correo": "naoliden@uc.cl",
+		"sexo": "M",
+		"edad": 30,
+		"clave": "svkwgc"
+	},
+	{
+		"id": 84,
+		"apellido": "OLIVARES",
+		"nombre": "LEONARDO ENRIQUE",
+		"correo": "leolivares@uc.cl",
+		"sexo": "M",
+		"edad": 21,
+		"clave": "ntkfmy"
+	},
+	{
+		"id": 85,
+		"apellido": "OPASO",
+		"nombre": "JOSE MANUEL",
+		"correo": "jmopaso@uc.cl",
+		"sexo": "M",
+		"edad": 18,
+		"clave": "xmrzon"
+	},
+	{
+		"id": 86,
+		"apellido": "ORTEGA",
+		"nombre": "MARIANA VALENTINA",
+		"correo": "mvortega2@uc.cl",
+		"sexo": "F",
+		"edad": 11,
+		"clave": "mpalwm"
+	},
+	{
+		"id": 87,
+		"apellido": "PARRAGUEZ",
+		"nombre": "NICOLÁS ALEJANDRO",
+		"correo": "nlparraguez@uc.cl",
+		"sexo": "M",
+		"edad": 24,
+		"clave": "njqkaa"
+	},
+	{
+		"id": 88,
+		"apellido": "PLASS",
+		"nombre": "ANDRES",
+		"correo": "aplass@uc.cl",
+		"sexo": "M",
+		"edad": 12,
+		"clave": "cavhtt"
+	},
+	{
+		"id": 89,
+		"apellido": "PLAZA DE LOS REYES",
+		"nombre": "MARIA IGNACIA",
+		"correo": "miplazadelosreyes@uc.cl",
+		"sexo": "F",
+		"edad": 28,
+		"clave": "hmjahv"
+	},
+	{
+		"id": 90,
+		"apellido": "POBLETE",
+		"nombre": "SEBASTIÁN IGNACIO",
+		"correo": "sipoblete@uc.cl",
+		"sexo": "M",
+		"edad": 30,
+		"clave": "rlfrmu"
+	},
+	{
+		"id": 91,
+		"apellido": "POBLETE",
+		"nombre": "CRISTÓBAL MARTÍN",
+		"correo": "cmpoblete@uc.cl",
+		"sexo": "M",
+		"edad": 15,
+		"clave": "unicnq"
+	},
+	{
+		"id": 92,
+		"apellido": "POTIN",
+		"nombre": "PHILIPPE ANDRE",
+		"correo": "papotin@uc.cl",
+		"sexo": "M",
+		"edad": 20,
+		"clave": "bydqjh"
+	},
+	{
+		"id": 93,
+		"apellido": "PRIETO",
+		"nombre": "CLAUDIO JOSE",
+		"correo": "cjprieto@uc.cl",
+		"sexo": "M",
+		"edad": 22,
+		"clave": "uwdmmu"
+	},
+	{
+		"id": 94,
+		"apellido": "QUIROGA",
+		"nombre": "GONZALO TOMAS",
+		"correo": "gtquiroga@uc.cl",
+		"sexo": "M",
+		"edad": 25,
+		"clave": "agoxyq"
+	},
+	{
+		"id": 95,
+		"apellido": "QUIROZ",
+		"nombre": "NICOLÁS ALBERTO",
+		"correo": "naquiroz@uc.cl",
+		"sexo": "M",
+		"edad": 27,
+		"clave": "myftye"
+	},
+	{
+		"id": 96,
+		"apellido": "RAMIREZ",
+		"nombre": "MARTIN",
+		"correo": "mramirez7@uc.cl",
+		"sexo": "M",
+		"edad": 30,
+		"clave": "djedly"
+	},
+	{
+		"id": 97,
+		"apellido": "RICKE",
+		"nombre": "SEBASTIAN",
+		"correo": "sricke@uc.cl",
+		"sexo": "M",
+		"edad": 20,
+		"clave": "ycvrfh"
+	},
+	{
+		"id": 98,
+		"apellido": "RODRÍGUEZ",
+		"nombre": "PABLO IGNACIO",
+		"correo": "pcrodriguez@uc.cl",
+		"sexo": "M",
+		"edad": 24,
+		"clave": "jsiqzt"
+	},
+	{
+		"id": 99,
+		"apellido": "ROJAS",
+		"nombre": "VALENTINA",
+		"correo": "vrojas5@uc.cl",
+		"sexo": "F",
+		"edad": 11,
+		"clave": "oppvpz"
+	},
+	{
+		"id": 100,
+		"apellido": "SALDÍAS",
+		"nombre": "MARCELO IGNACIO",
+		"correo": "misaldias@uc.cl",
+		"sexo": "M",
+		"edad": 23,
+		"clave": "npnkkr"
+	},
+	{
+		"id": 101,
+		"apellido": "SALVADORES",
+		"nombre": "TOMAS IGNACIO",
+		"correo": "tisalvadores@uc.cl",
+		"sexo": "M",
+		"edad": 19,
+		"clave": "nxknrx"
+	},
+	{
+		"id": 102,
+		"apellido": "SÁNCHEZ",
+		"nombre": "MARÍA IGNACIA",
+		"correo": "mcsanchez@uc.cl",
+		"sexo": "F",
+		"edad": 28,
+		"clave": "xvxslr"
+	},
+	{
+		"id": 103,
+		"apellido": "SCHILLING",
+		"nombre": "RICARDO ESTEBAN",
+		"correo": "reschilling@uc.cl",
+		"sexo": "M",
+		"edad": 15,
+		"clave": "mecwic"
+	},
+	{
+		"id": 104,
+		"apellido": "SCHUIT",
+		"nombre": "GREGORY KEES",
+		"correo": "gkschuit@uc.cl",
+		"sexo": "M",
+		"edad": 13,
+		"clave": "fltmrf"
+	},
+	{
+		"id": 105,
+		"apellido": "SIEGEL",
+		"nombre": "JAN PAUL",
+		"correo": "jasiegel@uc.cl",
+		"sexo": "M",
+		"edad": 20,
+		"clave": "ccinuw"
+	},
+	{
+		"id": 106,
+		"apellido": "TALADRIZ",
+		"nombre": "FEDERICO ANDRES",
+		"correo": "fntaladriz@uc.cl",
+		"sexo": "M",
+		"edad": 24,
+		"clave": "ihmxts"
+	},
+	{
+		"id": 107,
+		"apellido": "TORRES",
+		"nombre": "DUNKAN NICOLÁS",
+		"correo": "dntorres1@uc.cl",
+		"sexo": "M",
+		"edad": 27,
+		"clave": "zangnq"
+	},
+	{
+		"id": 108,
+		"apellido": "TRAMON",
+		"nombre": "JAVIER OMAR",
+		"correo": "jotramon@uc.cl",
+		"sexo": "M",
+		"edad": 26,
+		"clave": "xqwats"
+	},
+	{
+		"id": 109,
+		"apellido": "VALENZUELA",
+		"nombre": "TOMÁS PATRICIO",
+		"correo": "tpvalenzuela@uc.cl",
+		"sexo": "M",
+		"edad": 28,
+		"clave": "aernky"
+	},
+	{
+		"id": 110,
+		"apellido": "VELOZO",
+		"nombre": "SEBASTIAN ANDRES",
+		"correo": "savelozo@uc.cl",
+		"sexo": "M",
+		"edad": 10,
+		"clave": "srshvb"
+	},
+	{
+		"id": 111,
+		"apellido": "VILLALOBOS",
+		"nombre": "TIEN",
+		"correo": "tvillalobos1@uc.cl",
+		"sexo": "M",
+		"edad": 12,
+		"clave": "ufwslf
+	},"
+	{
+		"id": 112,
+		"apellido": "WALLACE",
+		"nombre": "THOMAS",
+		"correo": "twallace@uc.cl",
+		"sexo": "M",
+		"edad": 21,
+		"clave": "wfxpqx"
+	},
+	{
+		"id": 113,
+		"apellido": "WAUGH",
+		"nombre": "ENRIQUE",
+		"correo": "ewaugh2@uc.cl",
+		"sexo": "M",
+		"edad": 19,
+		"clave": "fwafnn"
+	},
+	{
+		"id": 114,
+		"apellido": "WIELANDT",
+		"nombre": "JOSE MANUEL",
+		"correo": "jmwielandt@uc.cl",
+		"sexo": "M",
+		"edad": 18,
+		"clave": "dyjnxy"
+	},
+	{
+		"id": 115,
+		"apellido": "YOMA",
+		"nombre": "DINKO FERNANDO",
+		"correo": "dfyoma@uc.cl",
+		"sexo": "M",
+		"edad": 30,
+		"clave": "oypjzb"
+	},
+	{
+		"id": 116,
+		"apellido": "ZENTENO",
+		"nombre": "MATÍAS ALEJANDRO",
+		"correo": "mlzenteno@uc.cl",
+		"sexo": "M",
+		"edad": 27,
+		"clave": "tjjjiy"
+	},
+	{
+		"id": 117,
+		"apellido": "ZÚÑIGA",
+		"nombre": "SAMUEL EMILIO",
+		"correo": "sezuniga1@uc.cl",
+		"sexo": "M",
+		"edad": 11,
+		"clave": "dpteib"
+	},
+	{
+		"id": 118,
+		"apellido": "ZUPEUC",
+		"nombre": "DANIEL",
+		"correo": "dzupeuc@uc.cl",
+		"sexo": "M",
+		"edad": 13,
+		"clave": "tzzzzi"
+	},
+	{
+		"id": 119,
+		"apellido": "",
+		"nombre": "Old Navy",
+		"correo": "jonadab@sbcglobal.net",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 120,
+		"apellido": "",
+		"nombre": "Dick's Sporting Goods",
+		"correo": "ryanvm@aol.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 121,
+		"apellido": "",
+		"nombre": "Big Bang Bicycles",
+		"correo": "mjewell@optonline.net",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 122,
+		"apellido": "",
+		"nombre": "American Thrift Center",
+		"correo": "pajas@comcast.net",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 123,
+		"apellido": "",
+		"nombre": "Cindy Esser's Floral Shop",
+		"correo": "denism@icloud.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 124,
+		"apellido": "",
+		"nombre": "Red White & Blue Thrift Store",
+		"correo": "symbolic@yahoo.ca",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 125,
+		"apellido": "",
+		"nombre": "Paul's Clock Repair",
+		"correo": "dkrishna@msn.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 126,
+		"apellido": "",
+		"nombre": "Falabella",
+		"correo": "tjensen@yahoo.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 127,
+		"apellido": "",
+		"nombre": "Homecenter",
+		"correo": "mhassel@mac.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 128,
+		"apellido": "",
+		"nombre": "Casa Ideas",
+		"correo": "giafly@sbcglobal.net",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 129,
+		"apellido": "",
+		"nombre": "Adidas",
+		"correo": "martyloo@hotmail.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 130,
+		"apellido": "",
+		"nombre": "Porto Fino",
+		"correo": "esbeck@msn.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 131,
+		"apellido": "",
+		"nombre": "Paddy's House",
+		"correo": "frostman@yahoo.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 132,
+		"apellido": "",
+		"nombre": "Nike",
+		"correo": "iapetus@sbcglobal.net",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 133,
+		"apellido": "",
+		"nombre": "Walmart",
+		"correo": "bjornk@hotmail.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 134,
+		"apellido": "",
+		"nombre": "Apple",
+		"correo": "scotfl@gmail.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 135,
+		"apellido": "",
+		"nombre": "Jumbo",
+		"correo": "sekiya@yahoo.ca",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 136,
+		"apellido": "",
+		"nombre": "Loft",
+		"correo": "catalog@gmail.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 137,
+		"apellido": "",
+		"nombre": "North Face",
+		"correo": "chaki@msn.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 138,
+		"apellido": "",
+		"nombre": "Assoto",
+		"correo": "alfred@hotmail.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 139,
+		"apellido": "",
+		"nombre": "Rapa Nui",
+		"correo": "mddallara@yahoo.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 140,
+		"apellido": "",
+		"nombre": "Hoyts Cinema",
+		"correo": "sisyphus@me.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 141,
+		"apellido": "",
+		"nombre": "Tom Bradley Airport",
+		"correo": "burns@msn.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 142,
+		"apellido": "",
+		"nombre": "Metro",
+		"correo": "brainless@live.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 143,
+		"apellido": "",
+		"nombre": "Shop 'n Save",
+		"correo": "parents@yahoo.ca",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 144,
+		"apellido": "",
+		"nombre": "McDonald's",
+		"correo": "webteam@live.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 145,
+		"apellido": "",
+		"nombre": "Latina Pizza",
+		"correo": "hamilton@hotmail.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 146,
+		"apellido": "",
+		"nombre": "Bellisario Pizza Shop",
+		"correo": "jimxugle@live.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 147,
+		"apellido": "",
+		"nombre": "Hunan Wok Chinese Restaurant",
+		"correo": "moonlapse@outlook.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 148,
+		"apellido": "",
+		"nombre": "Minerva Bakery",
+		"correo": "delpino@optonline.net",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 149,
+		"apellido": "",
+		"nombre": "Pierogies Plus",
+		"correo": "ullman@optonline.net",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 150,
+		"apellido": "",
+		"nombre": "Marge's Place",
+		"correo": "wkrebs@att.net",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 151,
+		"apellido": "",
+		"nombre": "Applebee's",
+		"correo": "nullchar@verizon.net",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 152,
+		"apellido": "",
+		"nombre": "R & B's Pizza Place",
+		"correo": "monkeydo@optonline.net",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 153,
+		"apellido": "",
+		"nombre": "Luigi's Pizzeria",
+		"correo": "mcrawfor@sbcglobal.net",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 154,
+		"apellido": "",
+		"nombre": "Donald's",
+		"correo": "gslondon@att.net",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 155,
+		"apellido": "",
+		"nombre": "China Sea Chinese Restaurant",
+		"correo": "matloff@verizon.net",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 156,
+		"apellido": "",
+		"nombre": "Avalon Motel",
+		"correo": "geekgrl@hotmail.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 157,
+		"apellido": "",
+		"nombre": "Star Nails",
+		"correo": "dobey@optonline.net",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 158,
+		"apellido": "",
+		"nombre": "Vivo",
+		"correo": "crypt@comcast.net",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 159,
+		"apellido": "",
+		"nombre": "Remember When",
+		"correo": "msusa@live.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	},
+	{
+		"id": 160,
+		"apellido": "",
+		"nombre": "Pistella Beer Distributors",
+		"correo": "staikos@msn.com",
+		"sexo": "helicoptero apache",
+		"edad" : -1,
+		"clave": ""
+	}
+]
