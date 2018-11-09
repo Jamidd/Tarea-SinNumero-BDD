@@ -5,6 +5,8 @@ import sys
 
 app = Flask(__name__)
 
+PORT = 5000
+
 MONGODATABASE = "test"
 MONGOSERVER = "localhost"
 MONGOPORT = 27017
@@ -17,8 +19,13 @@ def remove_id(obj):
         item.pop("_id", None)
 
 
+@app.route('/')
+def hello_world():
+    return "Hello World!"
+
+
 @app.route('/user/<int:user>', methods=['GET'])
-def sender(user):
+def get_user(user):
     mongodb = client[MONGODATABASE]
     users = mongodb.usuarios
     messages = mongodb.messages
@@ -39,6 +46,20 @@ def sender(user):
         return jsonify(output), 200
 
 
+@app.route('/message/<int:message>', methods=['GET'])
+def get_message(message):
+    mongodb = client[MONGODATABASE]
+    messages = mongodb.messages
+    output = list()
+    for s in messages.find({"id": message}):
+        output.append(s)
+    if len(output) == 0:
+        return jsonify(), 404
+    else:
+        remove_id(output)
+        return jsonify(output[0]), 200
+
+
 if __name__ == '__main__':
     # Pueden definir su puerto para correr la aplicación
-    app.run(port=5000)
+    app.run(port=PORT)
