@@ -289,7 +289,7 @@
 	},
 	{
 		"id": 32,
-		"apellido": "DE DIEGO"
+		"apellido": "DE DIEGO",
 		"nombre": "FERNANDO ANTONIO",
 		"correo": "fadediego@uc.cl",
 		"sexo": "M",
@@ -298,8 +298,8 @@
 	},
 	{
 		"id": 33,
-		"apellido": "DEL" 
-		"nombre": "REAL,BENJAMÍN IGNACIO",
+		"apellido": "DEL REAL",
+		"nombre": "BENJAMÍN IGNACIO",
 		"correo": "bidelreal@uc.cl",
 		"sexo": "M",
 		"edad": 24,
@@ -393,8 +393,8 @@
 		"correo": "ifieldhouse@uc.cl",
 		"sexo": "M",
 		"edad": 10,
-		"clave": "hazlf
-	},o"
+		"clave": "hazlfo"
+	},
 	{
 		"id": 44,
 		"apellido": "FREY",
@@ -1005,8 +1005,8 @@
 		"correo": "tvillalobos1@uc.cl",
 		"sexo": "M",
 		"edad": 12,
-		"clave": "ufwslf
-	},"
+		"clave": "ufwslf"
+	},
 	{
 		"id": 112,
 		"apellido": "WALLACE",
