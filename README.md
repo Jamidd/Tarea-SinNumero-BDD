@@ -26,11 +26,11 @@ Esto iniciará la API en ***localhost*** con puerto definido como variable en el
 
 Por lo tanto, debe entrar a la página [http://localhost:5000/](http://localhost:5000/) (Es sólo un 'Hello World!')
 
-(GET) Para ver la información de un usuario, se debe ingresar a la ruta: /user/<id>
+(GET) Para ver la información de un usuario, se debe ingresar a la ruta: /user/\<id\> 
 
  - El formato del output es un diccionario {'messages': lista_de mensajes, 'user': usuario} donde *lista_de_mensajes* es una lista de toda la información de los mensajes y *usuario* es la información del usuario.
 
-(GET) Para ver la información de un mensaje, se ingresa a la ruta: /message/<id>
+(GET) Para ver la información de un mensaje, se ingresa a la ruta: /message/\<id\>
 
  - El ID de un mensaje fue agregado manualmente, permitido por [esta issue](https://github.com/IIC2413/Syllabus-2018-2/issues/147). El output es la información del mensaje.
 
