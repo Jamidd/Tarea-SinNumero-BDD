@@ -1,5 +1,6 @@
 [
   {
+    "id": 0,
     "message": "Buena! Me encanta el reggaetton. Me despido, salu3. ",
     "sender": 1,
     "receptant": 36,
@@ -8,6 +9,7 @@
     "date": "2016-01-21"
   },
   {
+    "id": 1,
     "message": "Te cuento que: Me encanta el reggaetton. Me despido, salu3. ",
     "sender": 1,
     "receptant": 16,
@@ -16,6 +18,7 @@
     "date": "2015-08-28"
   },
   {
+    "id": 2,
     "message": "Pasó algo. Bailé hasta muy tarde. Me despido, salu5. ",
     "sender": 1,
     "receptant": 14,
@@ -24,6 +27,7 @@
     "date": "2015-07-12"
   },
   {
+    "id": 3,
     "message": "Tanto tiempo! Odio el reggaetton. ",
     "sender": 1,
     "receptant": 32,
@@ -32,6 +36,7 @@
     "date": "2016-09-08"
   },
   {
+    "id": 4,
     "message": "Te cuento que: Me comí un churrasco. Espero que nos juntemos pronto. ",
     "sender": 2,
     "receptant": 23,
@@ -40,6 +45,7 @@
     "date": "2015-09-24"
   },
   {
+    "id": 5,
     "message": "Sucede que: Me comí un completo. Me despido, salu5. ",
     "sender": 2,
     "receptant": 12,
@@ -48,6 +54,7 @@
     "date": "2016-12-15"
   },
   {
+    "id": 6,
     "message": "Hola! Odio el reggaetton. Me despido, salu3. ",
     "sender": 2,
     "receptant": 9,
@@ -56,6 +63,7 @@
     "date": "2016-04-08"
   },
   {
+    "id": 7,
     "message": "Buena! Palestino es muy grande. Eso me hace feliz. ",
     "sender": 2,
     "receptant": 20,
@@ -64,6 +72,7 @@
     "date": "2015-08-10"
   },
   {
+    "id": 8,
     "message": "Te cuento que: Escuché la nueva canción de Metallica. Jajajajaja. ",
     "sender": 3,
     "receptant": 27,
@@ -72,6 +81,7 @@
     "date": "2015-06-24"
   },
   {
+    "id": 9,
     "message": "Buena! Mi muñeca me habló. ",
     "sender": 3,
     "receptant": 18,
@@ -80,6 +90,7 @@
     "date": "2016-03-05"
   },
   {
+    "id": 10,
     "message": "Cómo estás? Di un concierto anoche. Jijiji. ",
     "sender": 3,
     "receptant": 21,
@@ -88,6 +99,7 @@
     "date": "2015-04-19"
   },
   {
+    "id": 11,
     "message": "Te cuento que: Estamos preparando material para el nuevo disco. No sé que hacer al respecto. ",
     "sender": 4,
     "receptant": 1,
@@ -96,6 +108,7 @@
     "date": "2015-12-03"
   },
   {
+    "id": 12,
     "message": "Cómo estás? Pensé en lo que el paso de las estaciones significa en mi vida. No sé que hacer al respecto. ",
     "sender": 4,
     "receptant": 29,
@@ -104,6 +117,7 @@
     "date": "2016-11-28"
   },
   {
+    "id": 13,
     "message": "Hola! Alcancé el equilibrio espiritual. Me despido, saludos.",
     "sender": 4,
     "receptant": 31,
@@ -112,6 +126,7 @@
     "date": "2016-11-22"
   },
   {
+    "id": 14,
     "message": "Buena! Pensé en lo que el paso de las estaciones significa en mi vida. ",
     "sender": 4,
     "receptant": 8,
@@ -120,6 +135,7 @@
     "date": "2016-04-05"
   },
   {
+    "id": 15,
     "message": "Cómo estás? Alcancé el equilibrio espiritual. Eso me tiene bien. ",
     "sender": 5,
     "receptant": 25,
@@ -128,6 +144,7 @@
     "date": "2016-05-11"
   },
   {
+    "id": 16,
     "message": "Hola! Di un concierto anoche. No sé que hacer al respecto. ",
     "sender": 5,
     "receptant": 8,
@@ -136,6 +153,7 @@
     "date": "2015-06-13"
   },
   {
+    "id": 17,
     "message": "Pasó algo. Odio el reggaetton. Eso me tiene mal. ",
     "sender": 5,
     "receptant": 19,
@@ -144,6 +162,7 @@
     "date": "2015-11-23"
   },
   {
+    "id": 18,
     "message": "Tenemos que hablar. Eso me hace feliz. ",
     "sender": 6,
     "receptant": 33,
@@ -152,6 +171,7 @@
     "date": "2016-02-10"
   },
   {
+    "id": 19,
     "message": "Tanto tiempo! Eso me hace feliz. ",
     "sender": 6,
     "receptant": 8,
@@ -160,6 +180,7 @@
     "date": "2015-07-28"
   },
   {
+    "id": 20,
     "message": "Tenemos que hablar. Eso me tiene bien. ",
     "sender": 6,
     "receptant": 11,
@@ -168,6 +189,7 @@
     "date": "2016-12-01"
   },
   {
+    "id": 21,
     "message": "Buena! Estamos preparando material para el nuevo disco. Eso me tiene bien. ",
     "sender": 7,
     "receptant": 32,
@@ -176,6 +198,7 @@
     "date": "2015-01-02"
   },
   {
+    "id": 22,
     "message": "Tenemos que hablar. Me comí un completo. Eso me hace feliz. ",
     "sender": 7,
     "receptant": 32,
@@ -184,6 +207,7 @@
     "date": "2016-12-26"
   },
   {
+    "id": 23,
     "message": "Tanto tiempo! Pensé en lo que el paso de las estaciones significa en mi vida. Me despido, salu3. ",
     "sender": 7,
     "receptant": 10,
@@ -192,6 +216,7 @@
     "date": "2015-03-20"
   },
   {
+    "id": 24,
     "message": "Pasó algo. Me voy de viaje. Jajajajaja. ",
     "sender": 7,
     "receptant": 13,
@@ -200,6 +225,7 @@
     "date": "2015-10-23"
   },
   {
+    "id": 25,
     "message": "Sucede que: Alcancé el equilibrio espiritual. Eso me tiene bien. ",
     "sender": 7,
     "receptant": 23,
@@ -208,6 +234,7 @@
     "date": "2016-03-24"
   },
   {
+    "id": 26,
     "message": "Pasó algo. Me comí un churrasco. Me despido, salu3. ",
     "sender": 8,
     "receptant": 10,
@@ -216,6 +243,7 @@
     "date": "2015-04-27"
   },
   {
+    "id": 27,
     "message": "Tanto tiempo! Di un concierto anoche. Jajajajaja. ",
     "sender": 8,
     "receptant": 1,
@@ -224,6 +252,7 @@
     "date": "2016-09-14"
   },
   {
+    "id": 28,
     "message": "Tanto tiempo! Bailé hasta muy tarde. Jijiji. ",
     "sender": 8,
     "receptant": 6,
@@ -232,6 +261,7 @@
     "date": "2016-10-10"
   },
   {
+    "id": 29,
     "message": "Hola! Tengo que estudiar Bases de Datos. No sé que hacer al respecto. ",
     "sender": 9,
     "receptant": 31,
@@ -240,6 +270,7 @@
     "date": "2016-01-10"
   },
   {
+    "id": 30,
     "message": "Cómo estás? Odio el reggaetton. Jajajajaja. ",
     "sender": 9,
     "receptant": 15,
@@ -248,6 +279,7 @@
     "date": "2016-02-24"
   },
   {
+    "id": 31,
     "message": "Cómo estás? Me voy de viaje. Eso me hace feliz. ",
     "sender": 9,
     "receptant": 10,
@@ -256,6 +288,7 @@
     "date": "2016-09-14"
   },
   {
+    "id": 32,
     "message": "Tenemos que hablar. Me encanta el metal. Eso me hace feliz. ",
     "sender": 10,
     "receptant": 14,
@@ -264,6 +297,7 @@
     "date": "2016-09-22"
   },
   {
+    "id": 33,
     "message": "Te cuento que: Di un concierto anoche. Eso me tiene bien. ",
     "sender": 10,
     "receptant": 7,
@@ -272,6 +306,7 @@
     "date": "2015-10-20"
   },
   {
+    "id": 34,
     "message": "Tanto tiempo! Estamos preparando material para el nuevo disco. Jajajajaja. ",
     "sender": 10,
     "receptant": 13,
@@ -280,6 +315,7 @@
     "date": "2016-12-10"
   },
   {
+    "id": 35,
     "message": "Tenemos que hablar. Me encanta el reggaetton. Eso me hace feliz. ",
     "sender": 11,
     "receptant": 22,
@@ -288,6 +324,7 @@
     "date": "2015-08-03"
   },
   {
+    "id": 36,
     "message": "Cómo estás? Mi muñeca me habló. No sé que hacer al respecto. ",
     "sender": 11,
     "receptant": 14,
@@ -296,6 +333,7 @@
     "date": "2016-09-16"
   },
   {
+    "id": 37,
     "message": "Hola! Palestino es muy grande. Eso me hace feliz. ",
     "sender": 11,
     "receptant": 6,
@@ -304,6 +342,7 @@
     "date": "2016-07-05"
   },
   {
+    "id": 38,
     "message": "Hola! Mi muñeca me habló. Eso me tiene mal. ",
     "sender": 11,
     "receptant": 24,
@@ -312,6 +351,7 @@
     "date": "2016-05-04"
   },
   {
+    "id": 39,
     "message": "Buena! Escuché la nueva canción de Metallica. Eso me tiene mal. ",
     "sender": 12,
     "receptant": 21,
@@ -320,6 +360,7 @@
     "date": "2015-03-12"
   },
   {
+    "id": 40,
     "message": "Sucede que: Me encanta el grunge.Jajajajaja. ",
     "sender": 12,
     "receptant": 31,
@@ -328,6 +369,7 @@
     "date": "2016-09-07"
   },
   {
+    "id": 41,
     "message": "Buena! Palestino es muy grande. Jajajajaja. ",
     "sender": 12,
     "receptant": 18,
@@ -336,6 +378,7 @@
     "date": "2015-12-15"
   },
   {
+    "id": 42,
     "message": "Te cuento que: Eso me tiene mal. ",
     "sender": 12,
     "receptant": 21,
@@ -344,6 +387,7 @@
     "date": "2015-01-16"
   },
   {
+    "id": 43,
     "message": "Pasó algo. ",
     "sender": 12,
     "receptant": 24,
@@ -352,6 +396,7 @@
     "date": "2016-04-13"
   },
   {
+    "id": 44,
     "message": "Tanto tiempo! Canté mi canción favorita anoche. Eso me hace feliz. ",
     "sender": 13,
     "receptant": 7,
@@ -360,6 +405,7 @@
     "date": "2015-07-22"
   },
   {
+    "id": 45,
     "message": "Tenemos que hablar. Canté mi canción favorita anoche. Eso me tiene bien. ",
     "sender": 13,
     "receptant": 8,
@@ -368,6 +414,7 @@
     "date": "2015-10-01"
   },
   {
+    "id": 46,
     "message": "Hola! Tengo que estudiar Bases de Datos. Eso me tiene mal. ",
     "sender": 13,
     "receptant": 23,
@@ -376,6 +423,7 @@
     "date": "2016-05-14"
   },
   {
+    "id": 47,
     "message": "Pasó algo. Me comí un churrasco. Me despido, saludos.",
     "sender": 13,
     "receptant": 29,
@@ -384,6 +432,7 @@
     "date": "2015-05-03"
   },
   {
+    "id": 48,
     "message": "Tenemos que hablar. Escuché la nueva canción de Metallica. Me despido, saludos.",
     "sender": 13,
     "receptant": 35,
@@ -392,6 +441,7 @@
     "date": "2015-11-28"
   },
   {
+    "id": 49,
     "message": "Tanto tiempo! Odio el reggaetton. Eso me tiene mal. ",
     "sender": 14,
     "receptant": 2,
@@ -400,6 +450,7 @@
     "date": "2015-11-22"
   },
   {
+    "id": 50,
     "message": "Hola! Tengo que estudiar Bases de Datos. Jajajajaja. ",
     "sender": 14,
     "receptant": 22,
@@ -408,6 +459,7 @@
     "date": "2015-04-25"
   },
   {
+    "id": 51,
     "message": "Buena! Palestino es muy grande. Jajajajaja. ",
     "sender": 14,
     "receptant": 35,
@@ -416,6 +468,7 @@
     "date": "2016-06-12"
   },
   {
+    "id": 52,
     "message": "Sucede que: Me encanta el reggaetton. No sé que hacer al respecto. ",
     "sender": 15,
     "receptant": 24,
@@ -424,6 +477,7 @@
     "date": "2016-12-06"
   },
   {
+    "id": 53,
     "message": "Tenemos que hablar. Me encanta el metal. Me despido, salu5. ",
     "sender": 15,
     "receptant": 13,
@@ -432,6 +486,7 @@
     "date": "2015-06-01"
   },
   {
+    "id": 54,
     "message": "Pasó algo. Me comí un completo. Eso me hace feliz. ",
     "sender": 15,
     "receptant": 18,
@@ -440,6 +495,7 @@
     "date": "2016-07-17"
   },
   {
+    "id": 55,
     "message": "Cómo estás? Canté mi canción favorita anoche. Me despido, saludos.",
     "sender": 16,
     "receptant": 35,
@@ -448,6 +504,7 @@
     "date": "2015-09-15"
   },
   {
+    "id": 56,
     "message": "Buena! No sé que hacer. Espero que nos juntemos pronto. ",
     "sender": 16,
     "receptant": 33,
@@ -456,6 +513,7 @@
     "date": "2016-04-21"
   },
   {
+    "id": 57,
     "message": "Tenemos que hablar. Me robé su corazón. Me despido, saludos.",
     "sender": 16,
     "receptant": 13,
@@ -464,6 +522,7 @@
     "date": "2015-07-13"
   },
   {
+    "id": 58,
     "message": "Tanto tiempo! Estamos preparando material para el nuevo disco. Eso me tiene mal. ",
     "sender": 16,
     "receptant": 18,
@@ -472,6 +531,7 @@
     "date": "2015-09-09"
   },
   {
+    "id": 59,
     "message": "Pasó algo. Me encanta el metal. Me despido, salu5. ",
     "sender": 17,
     "receptant": 18,
@@ -480,6 +540,7 @@
     "date": "2015-10-14"
   },
   {
+    "id": 60,
     "message": "Tenemos que hablar. Cobreloa es el mejor equipo del mundo. Eso me tiene mal. ",
     "sender": 17,
     "receptant": 24,
@@ -488,6 +549,7 @@
     "date": "2016-02-01"
   },
   {
+    "id": 61,
     "message": "Sucede que: Bailé hasta muy tarde. Eso me tiene bien. ",
     "sender": 17,
     "receptant": 19,
@@ -496,6 +558,7 @@
     "date": "2015-06-08"
   },
   {
+    "id": 62,
     "message": "Pasó algo. Bailé hasta muy tarde. Jajajajaja. ",
     "sender": 17,
     "receptant": 21,
@@ -504,6 +567,7 @@
     "date": "2015-04-06"
   },
   {
+    "id": 63,
     "message": "Tanto tiempo! Vi a un ballet anoche. Me despido, saludos.",
     "sender": 18,
     "receptant": 20,
@@ -512,6 +576,7 @@
     "date": "2016-11-15"
   },
   {
+    "id": 64,
     "message": "Tanto tiempo! Me robé su corazón. No sé que hacer al respecto. ",
     "sender": 18,
     "receptant": 8,
@@ -520,6 +585,7 @@
     "date": "2016-12-18"
   },
   {
+    "id": 65,
     "message": "Hola! Di un concierto anoche. Me despido, saludos.",
     "sender": 18,
     "receptant": 2,
@@ -528,6 +594,7 @@
     "date": "2015-12-08"
   },
   {
+    "id": 66,
     "message": "Te cuento que: No sé que hacer. ",
     "sender": 19,
     "receptant": 11,
@@ -536,6 +603,7 @@
     "date": "2016-09-09"
   },
   {
+    "id": 67,
     "message": "Sucede que: Te odio. Me despido, saludos.",
     "sender": 19,
     "receptant": 31,
@@ -544,6 +612,7 @@
     "date": "2015-12-08"
   },
   {
+    "id": 68,
     "message": "Tenemos que hablar. Me robé su corazón. Espero que nos juntemos pronto. ",
     "sender": 19,
     "receptant": 4,
@@ -552,6 +621,7 @@
     "date": "2015-12-28"
   },
   {
+    "id": 69,
     "message": "Pasó algo. Me encanta el reggaetton. Eso me tiene mal. ",
     "sender": 19,
     "receptant": 30,
@@ -560,6 +630,7 @@
     "date": "2015-11-11"
   },
   {
+    "id": 70,
     "message": "Tenemos que hablar. Me encanta el metal. Eso me tiene mal. ",
     "sender": 19,
     "receptant": 7,
@@ -568,6 +639,7 @@
     "date": "2015-04-04"
   },
   {
+    "id": 71,
     "message": "Sucede que: Me comí un completo. No sé que hacer al respecto. ",
     "sender": 20,
     "receptant": 14,
@@ -576,6 +648,7 @@
     "date": "2016-07-12"
   },
   {
+    "id": 72,
     "message": "Te cuento que: Di un concierto anoche. Jijiji. ",
     "sender": 20,
     "receptant": 23,
@@ -584,6 +657,7 @@
     "date": "2015-03-01"
   },
   {
+    "id": 73,
     "message": "Te cuento que: Estoy borracho. Jijiji. ",
     "sender": 20,
     "receptant": 23,
@@ -592,6 +666,7 @@
     "date": "2015-11-03"
   },
   {
+    "id": 74,
     "message": "Pasó algo. No sé que hacer. Jijiji. ",
     "sender": 20,
     "receptant": 32,
@@ -600,6 +675,7 @@
     "date": "2016-10-23"
   },
   {
+    "id": 75,
     "message": "Pasó algo. Bailé hasta muy tarde. Espero que nos juntemos pronto. ",
     "sender": 20,
     "receptant": 34,
@@ -608,6 +684,7 @@
     "date": "2015-06-06"
   },
   {
+    "id": 76,
     "message": "Tanto tiempo! Escuché la nueva canción de Metallica. Espero que nos juntemos pronto. ",
     "sender": 21,
     "receptant": 26,
@@ -616,6 +693,7 @@
     "date": "2016-11-09"
   },
   {
+    "id": 77,
     "message": "Tenemos que hablar. Odio el reggaetton. Jijiji. ",
     "sender": 21,
     "receptant": 31,
@@ -624,6 +702,7 @@
     "date": "2015-07-01"
   },
   {
+    "id": 78,
     "message": "Tanto tiempo! Vi a un ballet anoche. ",
     "sender": 21,
     "receptant": 26,
@@ -632,6 +711,7 @@
     "date": "2015-08-17"
   },
   {
+    "id": 79,
     "message": "Buena! Me robé su corazón. Jajajajaja. ",
     "sender": 22,
     "receptant": 7,
@@ -640,6 +720,7 @@
     "date": "2016-11-01"
   },
   {
+    "id": 80,
     "message": "Hola! Te odio. Eso me tiene bien. ",
     "sender": 22,
     "receptant": 10,
@@ -648,6 +729,7 @@
     "date": "2015-08-14"
   },
   {
+    "id": 81,
     "message": "Hola! Escuché la nueva canción de Metallica. No sé que hacer al respecto. ",
     "sender": 22,
     "receptant": 33,
@@ -656,6 +738,7 @@
     "date": "2015-06-21"
   },
   {
+    "id": 82,
     "message": "Cómo estás? Alcancé el equilibrio espiritual. Jijiji. ",
     "sender": 22,
     "receptant": 11,
@@ -664,6 +747,7 @@
     "date": "2016-12-03"
   },
   {
+    "id": 83,
     "message": "Tenemos que hablar. Estamos preparando material para el nuevo disco. Me despido, salu5. ",
     "sender": 23,
     "receptant": 4,
@@ -672,6 +756,7 @@
     "date": "2016-07-07"
   },
   {
+    "id": 84,
     "message": "Pasó algo. Escuché la nueva canción de Metallica. Eso me tiene mal. ",
     "sender": 23,
     "receptant": 32,
@@ -680,6 +765,7 @@
     "date": "2015-06-01"
   },
   {
+    "id": 85,
     "message": "Buena! Tengo que estudiar Bases de Datos. ",
     "sender": 23,
     "receptant": 31,
@@ -688,6 +774,7 @@
     "date": "2015-06-15"
   },
   {
+    "id": 86,
     "message": "Hola! Me comí un completo. Me despido, salu5. ",
     "sender": 23,
     "receptant": 31,
@@ -696,6 +783,7 @@
     "date": "2015-05-27"
   },
   {
+    "id": 87,
     "message": "Tenemos que hablar. Estamos preparando material para el nuevo disco. Me despido, salu3. ",
     "sender": 23,
     "receptant": 12,
@@ -704,6 +792,7 @@
     "date": "2015-02-22"
   },
   {
+    "id": 88,
     "message": "Cómo estás? Palestino es muy grande. Me despido, salu3. ",
     "sender": 24,
     "receptant": 18,
@@ -712,6 +801,7 @@
     "date": "2015-12-22"
   },
   {
+    "id": 89,
     "message": "Sucede que: Palestino es muy grande. Eso me hace feliz. ",
     "sender": 24,
     "receptant": 26,
@@ -720,6 +810,7 @@
     "date": "2016-09-09"
   },
   {
+    "id": 90,
     "message": "Tenemos que hablar. Alcancé el equilibrio espiritual. Me despido, saludos.",
     "sender": 24,
     "receptant": 30,
@@ -728,6 +819,7 @@
     "date": "2015-06-18"
   },
   {
+    "id": 91,
     "message": "Cómo estás? Me despido, saludos.",
     "sender": 25,
     "receptant": 28,
@@ -736,6 +828,7 @@
     "date": "2016-02-18"
   },
   {
+    "id": 92,
     "message": "Tenemos que hablar. Tengo que estudiar Bases de Datos. Eso me tiene mal. ",
     "sender": 25,
     "receptant": 22,
@@ -744,6 +837,7 @@
     "date": "2016-11-25"
   },
   {
+    "id": 93,
     "message": "Tenemos que hablar. Bailé hasta muy tarde. Me despido, saludos.",
     "sender": 25,
     "receptant": 36,
@@ -752,6 +846,7 @@
     "date": "2016-06-23"
   },
   {
+    "id": 94,
     "message": "Buena! Me robé su corazón. Jajajajaja. ",
     "sender": 25,
     "receptant": 5,
@@ -760,6 +855,7 @@
     "date": "2016-11-09"
   },
   {
+    "id": 95,
     "message": "Tanto tiempo! Di un concierto anoche. ",
     "sender": 25,
     "receptant": 36,
@@ -768,6 +864,7 @@
     "date": "2015-01-26"
   },
   {
+    "id": 96,
     "message": "Sucede que: Bailé hasta muy tarde. Espero que nos juntemos pronto. ",
     "sender": 26,
     "receptant": 22,
@@ -776,6 +873,7 @@
     "date": "2015-11-23"
   },
   {
+    "id": 97,
     "message": "Cómo estás? Estoy borracho. Me despido, saludos.",
     "sender": 26,
     "receptant": 35,
@@ -784,6 +882,7 @@
     "date": "2015-11-17"
   },
   {
+    "id": 98,
     "message": "Tanto tiempo! Estamos preparando material para el nuevo disco. Espero que nos juntemos pronto. ",
     "sender": 26,
     "receptant": 1,
@@ -792,6 +891,7 @@
     "date": "2015-11-11"
   },
   {
+    "id": 99,
     "message": "Buena! Estoy borracho. Espero que nos juntemos pronto. ",
     "sender": 26,
     "receptant": 3,
@@ -800,6 +900,7 @@
     "date": "2016-12-05"
   },
   {
+    "id": 100,
     "message": "Pasó algo. Odio el reggaetton. Eso me tiene mal. ",
     "sender": 27,
     "receptant": 21,
@@ -808,6 +909,7 @@
     "date": "2016-07-22"
   },
   {
+    "id": 101,
     "message": "Buena! Estamos preparando material para el nuevo disco. Me despido, salu5. ",
     "sender": 27,
     "receptant": 6,
@@ -816,6 +918,7 @@
     "date": "2016-12-06"
   },
   {
+    "id": 102,
     "message": "Sucede que: Te odio. Eso me tiene mal. ",
     "sender": 27,
     "receptant": 13,
@@ -824,6 +927,7 @@
     "date": "2016-09-12"
   },
   {
+    "id": 103,
     "message": "Sucede que: Canté mi canción favorita anoche. ",
     "sender": 28,
     "receptant": 25,
@@ -832,6 +936,7 @@
     "date": "2016-01-10"
   },
   {
+    "id": 104,
     "message": "Buena! Me comí un churrasco. Me despido, saludos.",
     "sender": 28,
     "receptant": 8,
@@ -840,6 +945,7 @@
     "date": "2016-09-14"
   },
   {
+    "id": 105,
     "message": "Tanto tiempo! Odio el reggaetton. Me despido, saludos.",
     "sender": 28,
     "receptant": 2,
@@ -848,6 +954,7 @@
     "date": "2015-10-26"
   },
   {
+    "id": 106,
     "message": "Pasó algo. Cobreloa es el mejor equipo del mundo. Eso me hace feliz. ",
     "sender": 28,
     "receptant": 30,
@@ -856,6 +963,7 @@
     "date": "2015-01-14"
   },
   {
+    "id": 107,
     "message": "Hola! Eso me tiene bien. ",
     "sender": 29,
     "receptant": 25,
@@ -864,6 +972,7 @@
     "date": "2015-09-12"
   },
   {
+    "id": 108,
     "message": "Sucede que: Mi muñeca me habló. Jijiji. ",
     "sender": 29,
     "receptant": 8,
@@ -872,6 +981,7 @@
     "date": "2015-04-16"
   },
   {
+    "id": 109,
     "message": "Tanto tiempo! Odio el reggaetton. Eso me tiene bien. ",
     "sender": 29,
     "receptant": 18,
@@ -880,6 +990,7 @@
     "date": "2016-07-07"
   },
   {
+    "id": 110,
     "message": "Tenemos que hablar. Estoy borracho. Me despido, salu3. ",
     "sender": 30,
     "receptant": 17,
@@ -888,6 +999,7 @@
     "date": "2015-09-24"
   },
   {
+    "id": 111,
     "message": "Pasó algo. Tengo que estudiar Bases de Datos. Eso me hace feliz. ",
     "sender": 30,
     "receptant": 19,
@@ -896,6 +1008,7 @@
     "date": "2015-08-24"
   },
   {
+    "id": 112,
     "message": "Te cuento que: Me encanta el grunge.Me despido, saludos.",
     "sender": 30,
     "receptant": 21,
@@ -904,6 +1017,7 @@
     "date": "2015-04-10"
   },
   {
+    "id": 113,
     "message": "Hola! Me comí un churrasco. Me despido, saludos.",
     "sender": 31,
     "receptant": 25,
@@ -912,6 +1026,7 @@
     "date": "2016-01-21"
   },
   {
+    "id": 114,
     "message": "Cómo estás? Estoy borracho. Jijiji. ",
     "sender": 31,
     "receptant": 9,
@@ -920,6 +1035,7 @@
     "date": "2015-08-26"
   },
   {
+    "id": 115,
     "message": "Buena! Vi a un ballet anoche. Me despido, saludos.",
     "sender": 31,
     "receptant": 21,
@@ -928,6 +1044,7 @@
     "date": "2015-06-07"
   },
   {
+    "id": 116,
     "message": "Sucede que: No sé que hacer. ",
     "sender": 32,
     "receptant": 10,
@@ -936,6 +1053,7 @@
     "date": "2016-02-07"
   },
   {
+    "id": 117,
     "message": "Sucede que: Pensé en lo que el paso de las estaciones significa en mi vida. ",
     "sender": 32,
     "receptant": 30,
@@ -944,6 +1062,7 @@
     "date": "2016-10-22"
   },
   {
+    "id": 118,
     "message": "Buena! Me encanta el metal. Eso me tiene mal. ",
     "sender": 32,
     "receptant": 26,
@@ -952,6 +1071,7 @@
     "date": "2015-08-06"
   },
   {
+    "id": 119,
     "message": "Buena! Alcancé el equilibrio espiritual. Me despido, saludos.",
     "sender": 32,
     "receptant": 28,
@@ -960,6 +1080,7 @@
     "date": "2015-10-09"
   },
   {
+    "id": 120,
     "message": "Pasó algo. Pensé en lo que el paso de las estaciones significa en mi vida. No sé que hacer al respecto. ",
     "sender": 32,
     "receptant": 28,
@@ -968,6 +1089,7 @@
     "date": "2016-09-01"
   },
   {
+    "id": 121,
     "message": "Hola! Cobreloa es el mejor equipo del mundo. No sé que hacer al respecto. ",
     "sender": 33,
     "receptant": 12,
@@ -976,6 +1098,7 @@
     "date": "2016-08-27"
   },
   {
+    "id": 122,
     "message": "Tenemos que hablar. Bailé hasta muy tarde. No sé que hacer al respecto. ",
     "sender": 33,
     "receptant": 11,
@@ -984,6 +1107,7 @@
     "date": "2015-11-07"
   },
   {
+    "id": 123,
     "message": "Buena! Canté mi canción favorita anoche. Me despido, saludos.",
     "sender": 33,
     "receptant": 32,
@@ -992,6 +1116,7 @@
     "date": "2015-06-05"
   },
   {
+    "id": 124,
     "message": "Buena! Palestino es muy grande. Me despido, salu5. ",
     "sender": 34,
     "receptant": 29,
@@ -1000,6 +1125,7 @@
     "date": "2016-10-23"
   },
   {
+    "id": 125,
     "message": "Te cuento que: Bailé hasta muy tarde. Jijiji. ",
     "sender": 34,
     "receptant": 3,
@@ -1008,6 +1134,7 @@
     "date": "2016-06-16"
   },
   {
+    "id": 126,
     "message": "Cómo estás? Me encanta el metal. No sé que hacer al respecto. ",
     "sender": 34,
     "receptant": 4,
@@ -1016,6 +1143,7 @@
     "date": "2016-10-18"
   },
   {
+    "id": 127,
     "message": "Tenemos que hablar. No sé que hacer. ",
     "sender": 34,
     "receptant": 23,
@@ -1024,6 +1152,7 @@
     "date": "2015-05-04"
   },
   {
+    "id": 128,
     "message": "Tenemos que hablar. Me voy de viaje. Eso me hace feliz. ",
     "sender": 34,
     "receptant": 14,
@@ -1032,6 +1161,7 @@
     "date": "2015-06-17"
   },
   {
+    "id": 129,
     "message": "Hola! Pensé en lo que el paso de las estaciones significa en mi vida. ",
     "sender": 35,
     "receptant": 30,
@@ -1040,6 +1170,7 @@
     "date": "2016-08-10"
   },
   {
+    "id": 130,
     "message": "Te cuento que: Cobreloa es el mejor equipo del mundo. Jijiji. ",
     "sender": 35,
     "receptant": 24,
@@ -1048,6 +1179,7 @@
     "date": "2015-11-26"
   },
   {
+    "id": 131,
     "message": "Te cuento que: Estoy borracho. Me despido, saludos.",
     "sender": 35,
     "receptant": 11,
@@ -1056,6 +1188,7 @@
     "date": "2016-01-26"
   },
   {
+    "id": 132,
     "message": "Tenemos que hablar. Vi a un ballet anoche. Me despido, salu5. ",
     "sender": 35,
     "receptant": 20,
@@ -1064,6 +1197,7 @@
     "date": "2015-09-17"
   },
   {
+    "id": 133,
     "message": "Pasó algo. Tengo que estudiar Bases de Datos. Me despido, saludos.",
     "sender": 36,
     "receptant": 3,
@@ -1072,6 +1206,7 @@
     "date": "2015-10-16"
   },
   {
+    "id": 134,
     "message": "Sucede que: Canté mi canción favorita anoche. Eso me tiene bien. ",
     "sender": 36,
     "receptant": 34,
@@ -1080,6 +1215,7 @@
     "date": "2016-05-12"
   },
   {
+    "id": 135,
     "message": "Sucede que: Tengo que estudiar Bases de Datos. Jijiji. ",
     "sender": 36,
     "receptant": 23,
@@ -1088,6 +1224,7 @@
     "date": "2016-03-15"
   },
   {
+    "id": 136,
     "message": "Tanto tiempo! Estoy borracho. No sé que hacer al respecto. ",
     "sender": 36,
     "receptant": 11,
