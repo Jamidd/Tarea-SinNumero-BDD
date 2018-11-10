@@ -1,6 +1,9 @@
 from flask import Flask, jsonify, abort, request
 from pymongo import MongoClient
 import sys
+import geocoder
+from random import randint
+import time
 
 app = Flask(__name__)
 
@@ -80,7 +83,7 @@ def get_inter(users):
         return jsonify(output), 200
 
 
-@app.route('/search')
+@app.route('/search', methods=['GET'])
 def search_text():
     user = request.args.get('user', None)
     mandatory = request.args.get('1', None)
@@ -124,6 +127,59 @@ def search_text():
             remove_id(output)
             return jsonify(output), 200
 
+
+@app.route('/add_message', methods=['POST'])
+def add_message():
+    user1 = request.args.get('1', None)
+    user2 = request.args.get('2', None)
+    message = request.args.get('m', None)
+    try: 
+        user1 = int(user1)
+        user2 = int(user2)
+    except:
+        return "Formato incorrecto", 404
+
+    g = geocoder.ip('me')
+    lat = g.latlng[0]
+    lon = g.latlng[1]
+
+    mongodb = client[MONGODATABASE]
+    messages = mongodb.messages
+
+    while True:
+        mid = randint(0,9999999999)
+        output =[]
+        for s in messages.find({"id": mid}):
+            output.append(s)
+        if len(output) == 0:
+            break
+    ins = {"id": mid, "message": message, "sender": user1, "receptant": user2, "lat": lat, "long": lon, "date": time.strftime("%Y-%d-%m")}
+    ins = jsonify(ins)
+    messages.insert(ins)
+    return ins
+
+
+@app.route('/delete_message', methods=['POST'])
+def delete_message():
+    mid = request.args.get('mid', None)
+    try:
+        mid = int(mid)
+    except:
+        return "Formato inválido, por favor intente nuevamente", 400
+    if mid < 0:
+        return "Formato inválido, por favor intente nuevamente", 400
+    mongodb = client[MONGODATABASE]
+    messages = mongodb.messages
+    output = []
+    for s in messages.find({"id": message}):
+        output.append(s)
+    if len(output) == 0:
+        return "El mensaje con ID = {} no existe.".format(message), 404
+    else:
+        output = []
+        for s in messages.remove({"id": int(mid)}):
+            output.append(s)
+        return "Mensaje eliminado"
 
 if __name__ == '__main__':
     # Pueden definir su puerto para correr la aplicación
