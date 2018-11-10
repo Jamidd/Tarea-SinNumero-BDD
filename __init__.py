@@ -137,12 +137,13 @@ def add_message():
         user1 = int(user1)
         user2 = int(user2)
     except:
-        return "Formato incorrecto", 404
+        return "Formato inválido, por favor intente nuevamente", 404
 
     g = geocoder.ip('me')
     lat = g.latlng[0]
     lon = g.latlng[1]
 
+    #print(user1, user2, message)
     mongodb = client[MONGODATABASE]
     messages = mongodb.messages
 
@@ -153,10 +154,8 @@ def add_message():
             output.append(s)
         if len(output) == 0:
             break
-    ins = {"id": mid, "message": message, "sender": user1, "receptant": user2, "lat": lat, "long": lon, "date": time.strftime("%Y-%d-%m")}
-    ins = jsonify(ins)
-    messages.insert(ins)
-    return ins
+    messages.insert({"id": mid, "message": message, "sender": user1, "receptant": user2, "lat": lat, "long": lon, "date": time.strftime("%Y-%d-%m")})
+    return jsonify({"id": mid, "message": message, "sender": user1, "receptant": user2, "lat": lat, "long": lon, "date": time.strftime("%Y-%d-%m")})
 
 
 @app.route('/delete_message', methods=['POST'])
@@ -168,13 +167,14 @@ def delete_message():
         return "Formato inválido, por favor intente nuevamente", 400
     if mid < 0:
         return "Formato inválido, por favor intente nuevamente", 400
+
     mongodb = client[MONGODATABASE]
     messages = mongodb.messages
     output = []
-    for s in messages.find({"id": message}):
+    for s in messages.find({"id": mid}):
         output.append(s)
     if len(output) == 0:
-        return "El mensaje con ID = {} no existe.".format(message), 404
+        return "El mensaje con ID = {} no existe.".format(mid), 404
     else:
         output = []
         for s in messages.remove({"id": int(mid)}):
