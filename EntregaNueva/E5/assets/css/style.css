@@ -1,0 +1,62 @@
+.Login {
+    border: 2px solid blue;
+}
+
+.NamePass {
+    color: blue;
+}
+
+body {
+    background-color: #222222
+}
+
+p, h1, h2, h3, h4, h5, h6, label {
+    color: #EEEEEE;
+}
+
+.start_text {
+    color: #D7AF46;
+    font-weight: bold;
+    font-size: 60px;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.main-cont {
+    padding-top: 50px;
+}
+
+.b-label {
+    font-weight: 2;
+}
+
+.space {
+    padding-top: 20px;
+}
+
+.querytable {
+    background-color: #444444;
+}
+
+.querytext {
+    color: #EEEEEE;
+}
+
+td {
+    color: #EEEEEE;
+}
+
+.querytext2 {
+    color: #EEEEEE;
+    margin-bottom: 2px;
+}
+
+.querycontainer {
+    border-style: solid;
+    border-color: #DDDDDD;
+    background-color: #444444;
+}
+
+table, th, tr {
+    border-color: #DDDDDD
+    border-width: 4px 4px 4px 4px;
+}
