@@ -47,7 +47,19 @@ function GetUser($id)
 function GetMesByText($id, $si, $talv, $no)
 {
     $curl = curl_init();
-    $preg = "http://rapanui28.ing.puc.cl/search?id=$id&1=".join('|', $si)."&2=".join('|', $talv)."&3=".join('|', $no);
+    $preg = "http://rapanui28.ing.puc.cl/search?";
+    if ($id != "-"){
+    	$preg = $preg . "id=$id&";
+    }
+    if ($si != "-"){
+    	$preg = $preg . "1=" . join('|', $si). "&";
+    }
+    if ($talv != "-"){
+    	$preg = $preg . "2=" . join('|', $talv). "&";
+    }
+    if ($no != "-"){
+    	$preg = $preg . "3=" . join('|', $no). "&";
+    }
     curl_setopt_array($curl, array(
       CURLOPT_URL => $preg,
       CURLOPT_RETURNTRANSFER => true,

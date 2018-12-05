@@ -1,4 +1,5 @@
 <?php
+    include_once "funciones.php";
     session_start();
 ?>
 <!DOCTYPE html>
@@ -28,6 +29,20 @@
         <a class="btn btn-primary" href="logout_handler.php" role="button">Logout</a>
     </div>
 <br>
+<div class="container space">
+      <h4>Ingrese datos del mensaje a buscar</h4>
+        <form action="men_text2.php" method="post">
+            <h5>Id:</h5>
+            <input type="text" name="id"value="-">
+            <h5>Palabras que deben estar en el mensaje (separadas por ","):</h5>
+            <input type="text" name="sisi"value="-">
+            <h5>Palabras que pueden estar en el mensaje (separadas por ","):</h5>
+            <input type="text" name="sino"value="-">
+            <h5>Palabras que no deben estar en el mensaje (separadas por ","):</h5>
+            <input type="text" name="nono"value="-">
+            <input type="submit" value="OK">
+        </form>
+</div>
 
 
 </body>
