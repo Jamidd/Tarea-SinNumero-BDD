@@ -15,6 +15,7 @@
             session_start();
             if (isset($_SESSION['id'])){
                 echo '<a class="btn btn-primary" href="perfil.php" role="button">Perfil</a>';
+                echo '<a class="btn btn-primary" href="mensajeria.php" role="button">Mensajeria</a>';
                 echo '<a class="btn btn-primary" href="abonosyseguros.php" role="button">Abonos y Seguros</a>';
                 echo '<a class="btn btn-primary" href="transeferencias.php" role="button">Hacer transferencia</a>';
                 echo '<a class="btn btn-primary" href="compra.php" role="button">Compra</a>';
@@ -24,20 +25,13 @@
         <a class="btn btn-primary" href="productosyservicios.php" role="button">Productos y Servicios</a>
         <a class="btn btn-primary" href="logout_handler.php" role="button">Logout</a>
     </div>
-<div class="container space">
-      <h4>Ingrese datos de transeferencia</h4>
-        <form action="realizar_trans.php" method="post">
-            <h5>Nombre usuario a transeferir:</h5>
-            <input type="text" name="nombre">
-            <h5>Apellido (si es una persona, sino en blanco):</h5>
-            <input type="text" name="apellido">
-            <h5>Monto:</h5>
-            <input type="number" name="monto">
+    <div class="container space">
+        <form action="consulta_tiendas.php" method="post">
+            <h4>Nombre Tienda:</h4>
+            <input type="text" class="form_control" name="nombre_tienda">
             <input type="submit" value="OK">
         </form>
-</div>
-<br>
-
+    </div>
 
 </body>
 </html>

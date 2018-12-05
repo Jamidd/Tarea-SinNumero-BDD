@@ -17,6 +17,7 @@
         <?php 
             if (isset($_SESSION['id'])){
                 echo '<a class="btn btn-primary" href="perfil.php" role="button">Perfil</a>';
+                echo '<a class="btn btn-primary" href="mensajeria.php" role="button">Mensajeria</a>';
                 echo '<a class="btn btn-primary" href="abonosyseguros.php" role="button">Abonos y Seguros</a>';
                 echo '<a class="btn btn-primary" href="transeferencias.php" role="button">Hacer transferencia</a>';
                 echo '<a class="btn btn-primary" href="compra.php" role="button">Compra</a>';
