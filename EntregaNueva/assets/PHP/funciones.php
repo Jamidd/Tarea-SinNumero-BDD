@@ -57,10 +57,6 @@ function GetMesByText($id, $si, $talv, $no)
       CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
       CURLOPT_CUSTOMREQUEST => "GET",
       CURLOPT_POSTFIELDS => "",
-      CURLOPT_HTTPHEADER => array(
-        "Postman-Token: 591ff53b-4ec7-43c7-b9ae-db4b2e87e4b6",
-        "cache-control: no-cache"
-      ),
     ));
 
     $response = curl_exec($curl);

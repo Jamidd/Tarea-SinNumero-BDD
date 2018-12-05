@@ -1,4 +1,5 @@
 <?php
+    include_once "funciones.php";
     session_start();
 ?>
 <!DOCTYPE html>
@@ -28,6 +29,32 @@
         <a class="btn btn-primary" href="logout_handler.php" role="button">Logout</a>
     </div>
 <br>
+
+<?php
+    $id = $_SESSION['id'];
+    $request = GetUser($id);
+    $info = json_decode($request, true);
+    echo "<table class=\"table querytable\"><thead><tr>
+    <th class=\"querytext\" scope=\"col\">Emisor</th>
+    <th class=\"querytext\" scope=\"col\">Mensaje</th>
+    <th class=\"querytext\" scope=\"col\">Fecha</th>
+    </tr></thead><tbody>";
+    
+    foreach ($info["messages"] as $mensaje) {
+        if ($mensaje["receptant"] == $id){
+            $a = $mensaje["sender"];
+            $b = $mensaje["message"];
+            $c = $mensaje["date"];
+            echo "<tr>
+            <td class=\"querytext\">$a</td>
+            <td class=\"querytext\">$b</td>
+            <td class=\"querytext\">$c</td>
+            </tr>";
+            echo $mensaje["message"];
+            echo "\n";
+        }
+    }
+?>
 
 
 </body>

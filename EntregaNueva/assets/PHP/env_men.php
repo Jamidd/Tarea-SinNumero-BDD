@@ -1,4 +1,5 @@
 <?php
+    include_once "funciones.php";
     session_start();
 ?>
 <!DOCTYPE html>
@@ -28,6 +29,16 @@
         <a class="btn btn-primary" href="logout_handler.php" role="button">Logout</a>
     </div>
 <br>
+<div class="container space">
+      <h4>Ingrese datos del mensaje</h4>
+        <form action="env_men2.php" method="post">
+            <h5>Id receptor:</h5>
+            <input type="text" name="id2">
+            <h5>Mensaje:</h5>
+            <input type="text" name="mensaje">
+            <input type="submit" value="OK">
+        </form>
+</div>
 
 
 </body>

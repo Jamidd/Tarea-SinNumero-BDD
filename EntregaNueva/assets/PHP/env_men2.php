@@ -28,8 +28,25 @@
         <a class="btn btn-primary" href="productosyservicios.php" role="button">Productos y Servicios</a>
         <a class="btn btn-primary" href="logout_handler.php" role="button">Logout</a>
     </div>
-<br>
-
-
+    <div class="container space">
+        <?php 
+            include_once "psql-config.php";
+            
+            $id = $_SESSION["id"];
+            $id2 = $_POST["id2"];
+            $m = $_POST["mensaje"];
+            $ret = AddMessage($id, $id2, $m);
+            if (strpos($ret, "invalido, por favor intente") !== false) {
+                echo '<h2>Error</h2>';
+            } else{
+                echo '<h2>Mensaje Enviado.</h2>';        
+            }
+        ?>
 </body>
 </html>
+
+
+
+
+
+

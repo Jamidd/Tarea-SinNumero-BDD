@@ -31,13 +31,29 @@
 <br>
 
 <?php
-    #0/add_message?1=23&2=12&m=hola como estas
     $id = $_SESSION['id'];
-    #$request = AddMessage($id, 22, "hola como estass");
-    #$request = GetUser($id);
-    #$request = GetMesByText($id, array("me", "gusta"), array("helicoptero", "avion"), array("chile", "baile"));
-    #echo $request;
-
+    $request = GetUser($id);
+    $info = json_decode($request, true);
+    echo "<table class=\"table querytable\"><thead><tr>
+    <th class=\"querytext\" scope=\"col\">Receptor</th>
+    <th class=\"querytext\" scope=\"col\">Mensaje</th>
+    <th class=\"querytext\" scope=\"col\">Fecha</th>
+    </tr></thead><tbody>";
+    
+    foreach ($info["messages"] as $mensaje) {
+        if ($mensaje["sender"] == $id){
+            $a = $mensaje["receptant"];
+            $b = $mensaje["message"];
+            $c = $mensaje["date"];
+            echo "<tr>
+            <td class=\"querytext\">$a</td>
+            <td class=\"querytext\">$b</td>
+            <td class=\"querytext\">$c</td>
+            </tr>";
+            echo $mensaje["message"];
+            echo "\n";
+        }
+    }
 ?>
 
 </body>
